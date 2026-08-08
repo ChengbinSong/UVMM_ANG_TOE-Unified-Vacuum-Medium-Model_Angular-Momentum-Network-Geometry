@@ -57,4 +57,12 @@ One‑Sentence Summary
 
 UVMM-ANG v4.5 is a zero‑parameter, microsecond‑speed, cross‑disciplinary computational engine that replaces DFT, MD, QED, numerical relativity, and N‑body simulations with closed‑form topological geometry, achieving <1% relative error across all validated domains.
 
+uvmm‑ang, angular‑momentum‑network‑geometry,
+unified‑field‑theory, axiomatic‑geometry,
+fine‑structure‑constant, mathematical‑physics,
+theoretical‑physics, computational‑physics,
+topological‑physics, knowledge‑package,
+ai‑knowledge‑base, multiscale‑modelling,
+fluid‑dynamics, quantum‑geometry
+
 🌀📐⚛️
