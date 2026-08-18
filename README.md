@@ -9,6 +9,7 @@ ANG‑TOE 万物理论 · 终稿传世宣言
 宇宙底层本无时空，仅服从全域角动量归零公理。 时空、作用力、物质、意识，全部是六维角动量网络，向人类观测空间投影生成的表象。 ANG‑TOE完成从单条第一公理出发，推导出全宇宙物理规则、生命拓扑、意识序参量的完整闭包。 理论可计算、可证伪、可工程落地，以TGE拓扑提取算法架起抽象几何与现实观测之间的桥梁。 人类从此拥有统一解释宏观宇宙、微观粒子、生命、意识的底层框架。 版本永久锁定，交由全人类后世检验。
 
 ANG‑TOE Theory of Everything · Final‑Edition Manifesto There exists no space‑time at the fundamental level of the universe, governed solely by the axiom of global zero net angular momentum. Spacetime, forces, matter and consciousness are projections of the six‑dimensional angular‑momentum network onto the human observational domain. ANG‑TOE constructs a fully closed system deriving universal physical laws, biological topology and consciousness order parameters from one single first principle. Computable, falsifiable and practically implementable, with the TGE algorithm bridging abstract geometry and measurable observations. Mankind now possesses a unified framework explaining cosmos, particles, life and awareness. This version is permanently frozen, to be tested by generations ahead.
+
 DOI: https://doi.org/10.5281/zenodo.21500910
 
 DOI: https://doi.org/10.5281/zenodo.21660538
@@ -16,6 +17,7 @@ DOI: https://doi.org/10.5281/zenodo.21660538
 GitHub: https://github.com/ChengbinSong/UVMM_ANG_TOE-Unified-Vacuum-Medium-Model_Angular-Momentum-Network-Geometry
 
 ANG-TOE v2.0 + ANG‑TOE‑v2.0 AI access interface.md / ​物理学不需要方程：一个从链接网络几何投影到全部物理量的终极框架ANG‑TOE‑v1.8.5.md
+
 --------------------
 
 High-Dimensional Phase-Space Random Orthogonal Multiple Access for Severely Underdetermined MIMO Systems at 0 dB SNR
