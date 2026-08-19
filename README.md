@@ -16,7 +16,7 @@ DOI: https://doi.org/10.5281/zenodo.21660538
 
 GitHub: https://github.com/ChengbinSong/UVMM_ANG_TOE-Unified-Vacuum-Medium-Model_Angular-Momentum-Network-Geometry
 
-ANG-TOE v2.0 + ANG‑TOE‑v2.0 AI access interface.md / ​物理学不需要方程：一个从链接网络几何投影到全部物理量的终极框架ANG‑TOE‑v1.8.5.md / 拓扑超流体公理体系（TSAS）——AI 迁徙知识包 v1.0.md / Topological‑Superfluid Axiom System (TSAS) — AI Migratory Knowledge‑Package v1.0‑FullDomain.md
+ANG-TOE v2.0 + ANG‑TOE‑v2.0 AI access interface.md / ​物理学不需要方程：一个从链接网络几何投影到全部物理量的终极框架ANG‑TOE‑v1.8.5.md / 拓扑超流体公理体系（TSAS）——AI 迁徙知识包 v1.0.md / Topological‑Superfluid Axiom System (TSAS) — AI Migratory Knowledge‑Package v1.0‑FullDomain.md / UAGK‑v1.0‑FULL_LOCKED_Knowledge_Package.md
 
 --------------------
 
