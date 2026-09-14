@@ -97,7 +97,56 @@ UVMM 是一次巨大的进步：把分散在理化生各学科的数百条规律
 但它依然是 “方程集合”。
 ANG‑TOE 完成最后的跨越：不再把方程当作世界的底层规则。数百条各学科方程，连同 UVMM 的通用拓扑方程，全部变成从唯一公理衍生出来的、在特定观测条件下才成立的近似工具。
 宇宙本体只存在拓扑约束，不存在方程。
---------------------
+-----------------------------
+
+# ANG-TOE 宇宙嵌套层级图（Mermaid矢量图代码）
+> 渲染网站：https://mermaid.live/
+> 层级逻辑：底层本体骨架逐级向外嵌套，箭头代表高维向低维投影，与音频解说文稿层级一一对应
+```mermaid
+flowchart TD
+    subgraph Root【十二维全域角动量链接网络 · 本体】
+        direction TB
+        P3["P⁻³ 裸基底层<br/>超对称角动量拓扑骨架<br/>无尺寸、无时间、无运动"]
+        P2["P⁻² 方向编码矢量层<br/>全网方向根基，自旋/电荷底层起源"]
+        P1["P⁻¹ 亚普朗克连接骨架<br/>10⁶⁰原生链路<br/>暗物质骨架、量子纠缠全域网络"]
+        
+        M3["M3 微观闭环层<br/>拓扑Link闭环，粒子本体<br/>费米子半整数缠绕 / 玻色子整数缠绕<br/>电子、基本粒子、超导闭环"]
+        
+        L0["L0 观测采样层<br/>人脑神经相位采样闭环<br/>意识、欲望、情绪、时间采样切片"]
+        L1["L1 物质分子-原子集群<br/>宏观物质、化学键、凝聚态结构"]
+        L2["L2 行星/恒星系统<br/>恒星、行星、局部引力拓扑结构"]
+        L3["L3 星系层级<br/>单个星系，黑洞闭环簇位于星系核心"]
+        L4["L4 星系团层级"]
+        L5["L5 超星系团"]
+        L6["L6 大尺度纤维结构<br/>史隆长城，宇宙纤维拓扑纹路"]
+        L7["L7 全域宇宙网边界<br/>高维网络外层投影边界"]
+
+        %% 嵌套传递关系
+        P3 --> P2
+        P2 --> P1
+        P1 --> M3
+        M3 --> L0
+        M3 --> L1
+        L1 --> L2
+        L2 --> L3
+        L3 --> L4
+        L4 --> L5
+        L5 --> L6
+        L6 --> L7
+    end
+    %% 投影箭头：本体网络 → 人类四维观测表象
+    Root -.->|降维投影| OBS[【四维观测表象】<br/>时空、力、能量、单向时间、宇宙膨胀]
+
+    classDef base fill:#0a1933,color:#fff,stroke:#4488ff
+    classDef micro fill:#123344,color:#fff,stroke:#44ccdd
+    classDef macro fill:#223322,color:#fff,stroke:#77dd77
+    classDef obs fill:#442222,color:#fff,stroke:#ff7777
+
+    class P3,P2,P1 base
+    class M3,L0 micro
+    class L1,L2,L3,L4,L5,L6,L7 macro
+    class OBS obs
+-----------------------------------------
 
 High-Dimensional Phase-Space Random Orthogonal Multiple Access for Severely Underdetermined MIMO Systems at 0 dB SNR
 0 dB 信噪比下极度欠定 MIMO 系统高维相空间随机正交多址接入
